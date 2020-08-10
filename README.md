@@ -1,2 +1,1 @@
-# Web-Scrapping-
-Done on Amazon.com website
+Done using selector library and eventually done using python 3.8 version.
